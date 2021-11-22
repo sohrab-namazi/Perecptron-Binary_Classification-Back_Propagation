@@ -3,10 +3,10 @@ My solutions for Computational Intelligence assignment, including Perceptron, ML
 </br  >
 The PDF file includes complete explanation of the code
 
-> Perecptron
+* Perecptron
 
-> MLP (Kross)
+* MLP (Kross)
 
-> Binary Classification
+* Binary Classification
 
-> Back Propagation
+* Back Propagation
